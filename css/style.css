@@ -1,0 +1,12 @@
+body{
+  background: url(hacker-3655668_1920.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+h1{
+  color: rgb(51, 255, 0);
+  font-size: 1rem;
+  text-align: center;
+  place-content: center;
+  height: 100vh;
+}
